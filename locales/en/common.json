@@ -1,6 +1,12 @@
 {
   "actions": {
     "save": "Save",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "create": "Create",
+    "delete": "Delete",
+    "update": "Update",
+    "edit": "Edit",
+    "submit": "Submit",
+    "search": "Search"
   }
 }
